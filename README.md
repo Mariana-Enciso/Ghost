@@ -1,1 +1,1 @@
-# Ghost
+Welcome year zero!# Ghost
